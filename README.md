@@ -10,7 +10,7 @@
 ```json
 {
     "ref": "Full Stack Developer",
-    "pronouns": "he/his",
+    "pronouns": "he/him",
     "soft_skills": [
         "@great team work", 
         "@analytical",
