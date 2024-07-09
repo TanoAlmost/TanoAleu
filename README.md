@@ -23,9 +23,9 @@
 }
 ```
    
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow,macintosh)](https://skillicons.dev)
 
 </body>
 </html>
