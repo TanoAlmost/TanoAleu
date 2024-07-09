@@ -1,16 +1,31 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<body>
+ <h1 align="center">¡Hi there!! 👋</h1>
 
-<!--
-**TanoAlmost/TanoAlmost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>About me 🧑‍💻</h2>
 
-Here are some ideas to get you started:
+  <p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "ref": "Full Stack Developer",
+    "pronouns": "he/his",
+    "soft_skills": [
+        "@great team work", 
+        "@analytical",
+        "@dynamic and communicative",
+        "@optimist and patience",
+        "@agile method",
+    ],
+    "education": "ISDI CODERS Tech College (Barcelona)",
+    "location": "Kassel, Germany (DE)",
+}
+```
+   
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow)](https://skillicons.dev)
+
+</body>
+</html>
