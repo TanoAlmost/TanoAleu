@@ -29,9 +29,6 @@
     <p>
         My goal is to become a highly competent Full-Stack Developer while contributing to exciting projects that push the boundaries of technology.
     </p>
-    <p>
-        If you're searching for someone with energy, commitment, and an intense passion for technology, you're in the right place!
-    </p>
     <h3>👨‍💻 Professional Journey</h3>
     <p>
         In September 2023, I made a significant change in my career by joining the Full-Stack Developer Bootcamp at the esteemed Digital School ISDI CODERS (Madrid, Spain).
