@@ -39,7 +39,7 @@
     </p>
     <p>📋 <a href="https://drive.google.com/file/d/1ZrI4Jn860kOiphH82kUBMXDlefg8fgnJ/view?usp=sharing" target="_blank">Download my CV (English)</a></p>
     <p>🌐 <a href="https://tanoaleu-devportfolio.netlify.app/#" target="_blank">Portfolio Full-Stack Developer - Cayetano Aleu</a></p>
-    <p>📧 <a href="tanoalmost@gmail.com">Contact me via Email</a></p>
+    <p>📧 <a href="mailto:tanoalmost@gmail.com">Contact me via Email</a></p>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
 
