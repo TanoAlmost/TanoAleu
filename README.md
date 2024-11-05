@@ -2,7 +2,8 @@
 <html>
 <body>
  <h1 align="center">¡Hi there!! 👋</h1>
-<p align="center>Turning Ideas into Digital Reality | Full Stack Developer 💻</p>
+<p align="center">Turning Ideas into Digital Reality | Full Stack Developer 💻</p>
+ 
   <h2>About me 🧑‍💻</h2>
 
   <p>
