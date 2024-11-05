@@ -22,7 +22,7 @@
     "location": "Kassel, Germany (DE)",
 }
 ```
- <h2>A Tech Enthusiast in Progress</h2>
+ <h2>Driving Ideas, Building Digital Solutions</h2>
     <p>
         I'm diving deep into the world of technology and web development, constantly learning and honing my skills as a Full-Stack Developer. I'm on the lookout for opportunities where I can apply my knowledge, make an impact, and continue to grow as a tech professional.
     </p>
