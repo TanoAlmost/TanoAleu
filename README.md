@@ -2,7 +2,7 @@
 <body>
  <h1 align="center">¡Hi there!! 👋 I'm Tano.</h1>
 <p align="center">Turning Ideas into Digital Reality | Full Stack Developer 💻</p>
-
+![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO)
   <h2>About me 🧑‍💻</h2>
 
   <p>
