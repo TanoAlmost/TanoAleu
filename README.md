@@ -1,14 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Tano Aleu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+    </style>
+</head>
 <body>
- <h1 align="center">¡Hi there!! 👋 I'm Tano.</h1>
-<p align="center">Turning Ideas into Digital Reality | Full Stack Developer 💻</p>
+
+    <h1>¡Hi there!! 👋 I'm Tano.</h1>
+    <p>Turning Ideas into Digital Reality | Full Stack Developer 💻</p>
  
-  <h2>About me 🧑‍💻</h2>
+    <h2>About me 🧑‍💻</h2>
 
-  <p>
-
-```json
+    <pre>
 {
     "ref": "Full Stack Developer",
     "pronouns": "he/him",
@@ -17,14 +31,14 @@
         "@analytical",
         "@dynamic and communicative",
         "@optimist and patience",
-        "@agile method",
+        "@agile method"
     ],
     "education": "ISDI CODERS Tech College (Barcelona)",
-    "location": "Kassel, Germany (DE)",
+    "location": "Kassel, Germany (DE)"
 }
-```
+    </pre>
 
- <h2>A Tech Enthusiast in Progress</h2>
+    <h2>A Tech Enthusiast in Progress</h2>
     <p>
         I'm diving deep into the world of technology and web development, constantly learning and honing my skills as a Full-Stack Developer. I'm on the lookout for opportunities where I can apply my knowledge, make an impact, and continue to grow as a tech professional.
     </p>
@@ -52,11 +66,14 @@
 
     <p>🌐 <a href="https://tanoaleu-devportfolio.netlify.app/#" target="_blank">Portfolio Full-Stack Developer - Cayetano Aleu</a></p>
 
-    <p>✉ <a href="tanoalmost@gmail.com">Contact me via Email</a></p>
-   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
+    <p>✉ <a href="mailto:tanoalmost@gmail.com">Contact me via Email</a></p>
 
-  [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow,macintosh)](https://skillicons.dev)
+    <div>
+        <h3>My Skills</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,tailwind,vite,nodejs,express,mongodb,jest" alt="Skills icons">
+        <img src="https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow,macintosh" alt="Tools icons">
+    </div>
 
 </body>
 </html>
+
