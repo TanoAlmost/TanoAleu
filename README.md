@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
- <h1 align="center">¡Hi there!! 👋</h1>
+ <h1 align="center">¡Hi there!! 👋 I'm Tano.</h1>
 <p align="center">Turning Ideas into Digital Reality | Full Stack Developer 💻</p>
  
   <h2>About me 🧑‍💻</h2>
