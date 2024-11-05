@@ -31,7 +31,7 @@
     </p>
     <h3>👨‍💻 Professional Journey</h3>
     <p>
-        In September 2023, I made a significant change in my career by joining the Full-Stack Developer Bootcamp at the esteemed Digital School ISDI CODERS (Madrid, Spain).
+        In September 2023, I made a significant change in my career by joining the Full-Stack Developer Bootcamp at the esteemed Digital School ISDI CODERS (Barcelona, Spain).
     </p>
     <h3>✅ Current Tech Stack and Skills</h3>
     <p>
