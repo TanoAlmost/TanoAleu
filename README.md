@@ -36,14 +36,13 @@
     <p>
         In September 2023, I made a significant change in my career by joining the Full-Stack Developer Bootcamp at the esteemed Digital School ISDI CODERS (Madrid, Spain).
     </p>
-
     <h3>✅ Current Tech Stack and Skills</h3>
     <p>
         HTML5 & CSS | SASS | JavaScript | React | Astro | Vite | Node.js | Express | MongoDB & Mongoose | MySQL | PUG | Tailwind | Mocha | Jest | Figma | Agile Methodologies
     </p>
     <p>📋 <a href="https://drive.google.com/file/d/1ZrI4Jn860kOiphH82kUBMXDlefg8fgnJ/view?usp=sharing" target="_blank">Download my CV (English)</a></p>
     <p>🌐 <a href="https://tanoaleu-devportfolio.netlify.app/#" target="_blank">Portfolio Full-Stack Developer - Cayetano Aleu</a></p>
-    <p>✉ <a href="tanoalmost@gmail.com">Contact me via Email</a></p>
+    <p>📧 <a href="tanoalmost@gmail.com">Contact me via Email</a></p>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
 
