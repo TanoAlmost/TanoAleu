@@ -36,9 +36,7 @@
     <p>
         In September 2023, I made a significant change in my career by joining the Full-Stack Developer Bootcamp at the esteemed Digital School ISDI CODERS (Madrid, Spain).
     </p>
-    <p>
-        As of September 2024, I'm fully immersed in Back-End Development with Factoría F5 School (Gijón, Spain).
-    </p>
+
     <h3>✅ Current Tech Stack and Skills</h3>
     <p>
         HTML5 & CSS | SASS | JavaScript | React | Astro | Vite | Node.js | Express | MongoDB & Mongoose | MySQL | PUG | Tailwind | Mocha | Jest | Figma | Agile Methodologies
